@@ -1,3 +1,4 @@
+#labels Featured
 #How to generate the java libsndfile wrapper for windows7, JDK1.7 x64
 
 = Introduction =
